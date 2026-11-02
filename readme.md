@@ -4,3 +4,5 @@ https://roadmap.sh/projects/js-greeting-builder --> this is the referral link fo
 https://roadmap.sh/projects/js-temperature-converter --> this is the referral link for UnitConverter.js solution.
 
 https://roadmap.sh/projects/js-number-checker --> this is the referral link for NumberCheck.js solution.
+
+https://roadmap.sh/projects/js-string-formatter --> this is the referral link for the StringFmt.js solution.
