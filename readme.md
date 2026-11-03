@@ -6,3 +6,5 @@ https://roadmap.sh/projects/js-temperature-converter --> this is the referral li
 https://roadmap.sh/projects/js-number-checker --> this is the referral link for NumberCheck.js solution.
 
 https://roadmap.sh/projects/js-string-formatter --> this is the referral link for the StringFmt.js solution.
+
+https://roadmap.sh/projects/js-price-calculator --> this is the referral link for the PriceCalculator solution.
