@@ -8,3 +8,5 @@ https://roadmap.sh/projects/js-number-checker --> this is the referral link for 
 https://roadmap.sh/projects/js-string-formatter --> this is the referral link for the StringFmt.js solution.
 
 https://roadmap.sh/projects/js-price-calculator --> this is the referral link for the PriceCalculator solution.
+
+https://roadmap.sh/projects/js-cart-total-calculator --> this is the referral link for the CartTotal.js solution.
